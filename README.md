@@ -10,7 +10,7 @@
 
 ### 🚀 About Me  
 - 🌍 Based in **Isfahan, Iran**  
-- 🧠 Currently mastering **React, TypeScript, Zustand & Tailwind CSS**  
+- 🧠 Currently mastering **React.js, TypeScript, Tailwind CSS & Zustand**  
 - 🎯 Goal: Become a **pro developer** and build something people love ❤️  
 
 ---
