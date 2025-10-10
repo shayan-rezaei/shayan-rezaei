@@ -1,5 +1,9 @@
 <!-- 💫 GitHub Profile README by Mahyar for Shayan Rezaei 😎 -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=👋+Hey%2C+I'm+Shayan+Rezaei!;💻+Frontend+Developer;⚛️+React+%26+TypeScript+Lover;🚀+Always+Learning+Something+New!" alt="Typing SVG" />
+</p>
+
 <h1 align="center">👋 Hi there! I'm <span style="color:#00BFFF;">Shayan Rezaei</span></h1>
 
 <p align="center">
