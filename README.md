@@ -16,9 +16,9 @@
 ---
 
 ### 🚀 About Me  
-- 🌍 Based in **Isfahan, Iran**  
-- 🧠 Currently mastering **React.js, TypeScript, Tailwind CSS & Zustand**  
-- 🎯 Goal: Become a **pro developer** and build something people love ❤️  
+- 🎓 Bachelor's degree in Computer Engineering  
+- ⚛️ Creating dynamic, high-level user interfaces using React.js  
+- 🎯 Always learning and staying up-to-date with new technologies
 
 ---
 
