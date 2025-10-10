@@ -3,8 +3,7 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#00BFFF;">Shayan Rezaei</span></h1>
 
 <p align="center">
-  <b>💻 Frontend Developer | ⚛️ React & TypeScript</b><br/>
-  <i>“Building modern, clean, and fast web experiences — one component at a time.”</i>
+  <b>💻 Frontend Developer | ⚛️ React.js</b><br/>
 </p>
 
 ---
@@ -13,7 +12,6 @@
 - 🌍 Based in **Isfahan, Iran**  
 - 🧠 Currently mastering **React, TypeScript, Zustand & Tailwind CSS**  
 - 🎯 Goal: Become a **pro developer** and build something people love ❤️  
-- ☕ Fun fact: I can code for hours with just coffee & Persian music 🎶  
 
 ---
 
@@ -46,13 +44,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shayan-rezaei&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
-
----
-
-### 💼 Featured Projects
-- [📦 TaskFlow Dashboard](https://github.com/shayan-rezaei/taskflow) — React + Zustand + Tailwind admin panel  
-- [🌐 Portfolio Website](https://github.com/shayan-rezaei/portfolio) — Personal portfolio built with Next.js  
-- [🎮 GameHub Clone](https://github.com/shayan-rezaei/gamehub) — Modern gaming platform UI clone  
 
 ---
 
