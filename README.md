@@ -1,6 +1,6 @@
 <!-- 💫 GitHub Profile README by Mahyar for Shayan Rezaei 😎 -->
 
-<h1 align="center">👋 Hey there! I'm <span style="color:#00BFFF;">Shayan Rezaei</span></h1>
+<h1 align="center">👋 Hi there! I'm <span style="color:#00BFFF;">Shayan Rezaei</span></h1>
 
 <p align="center">
   <b>💻 Frontend Developer | ⚛️ React.js</b><br/>
