@@ -8,6 +8,13 @@
 
 ---
 
+### 🌐 Socials
+<p align="center">
+  <a href="https://instagram.com/shayan.rezaei__"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
 ### 🚀 About Me  
 - 🌍 Based in **Isfahan, Iran**  
 - 🧠 Currently mastering **React.js, TypeScript, Tailwind CSS & Zustand**  
@@ -43,13 +50,6 @@
 ### 🔥 Streak & Activity
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shayan-rezaei&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
----
-
-### 🌐 Socials:
-<p align="center">
-  <a href="https://instagram.com/shayan.rezaei__"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
