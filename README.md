@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Bachelor's degree in Computer Engineering  
+- 🎓 Bachelor of Computer Engineering  
 - ⚛️ Creating dynamic, high-level user interfaces using React.js  
 - 🎯 Always learning and staying up-to-date with new technologies
 
