@@ -44,7 +44,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shayan-rezaei&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
-
----
-
-<h3 align="center">⚡ "Keep coding, keep growing." ⚡</h3>
