@@ -48,5 +48,5 @@
 
 ### 💬 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cachebuster=1" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" alt="Random Dev Quote"/>
 </p>
