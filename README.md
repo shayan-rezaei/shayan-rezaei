@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/assets/assets/hi.gif" height="30" />
-  Hey there, I'm <span style="color:#00BFFF;">Shayan Rezaei</span> 👨‍💻
+  Hi there, I'm <span style="color:#00BFFF;">Shayan Rezaei</span> 👨‍💻
 </h1>
 
 <h3 align="center">💻 Front-End Developer | ⚛️ React.js</h3>
