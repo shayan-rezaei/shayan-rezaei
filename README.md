@@ -1,10 +1,9 @@
-<!-- 💫 GitHub Profile README by Mahyar for Shayan Rezaei 😎 -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/assets/assets/hi.gif" height="30" />
+  Hey there, I'm <span style="color:#00BFFF;">Shayan Rezaei</span> 👨‍💻
+</h1>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/assets/assets/hi.gif" height="30" /> Hi there! I'm <span style="color:#00BFFF;">Shayan Rezaei</span></h1>
-
-<p align="center">
-  <b>💻 Front-End Developer | ⚛️ React.js</b><br/>
-</p>
+<h3 align="center">💻 Front-End Developer • ⚛️ React.js</h3>
 
 ---
 
@@ -34,13 +33,20 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayan-rezaei&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-rezaei&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shayan-rezaei&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-rezaei&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 ---
 
 ### 🔥 Streak & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shayan-rezaei&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shayan-rezaei&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" alt="Random Dev Quote"/>
 </p>
