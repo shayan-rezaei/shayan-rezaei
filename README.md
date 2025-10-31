@@ -3,7 +3,7 @@
   Hey there, I'm <span style="color:#00BFFF;">Shayan Rezaei</span> 👨‍💻
 </h1>
 
-<h3 align="center">💻 Front-End Developer • ⚛️ React.js</h3>
+<h3 align="center">💻 Front-End Developer | ⚛️ React.js</h3>
 
 ---
 
