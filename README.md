@@ -3,13 +3,13 @@
   Hi there, I'm <span style="color:#00BFFF;">Shayan Rezaei</span> 👨‍💻
 </h1>
 
-<h3 align="center">💻 Front-End Developer | ⚛️ React.js</h3>
+<h3 align="center">💻 Front-End Developer | ⚛️ React</h3>
 
 ---
 
-### 🚀 About Me  
-- 🎓 Bachelor of Computer Engineering  
-- ⚛️ Creating dynamic, high-level user interfaces using React.js  
+### 🚀 About Me
+- 🎓 Bachelor of Computer Engineering
+- ⚛️ Creating dynamic, high-level user interfaces using React
 - 🎯 Always learning and staying up-to-date with new technologies
 
 ---
