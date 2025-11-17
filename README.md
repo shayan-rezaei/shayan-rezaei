@@ -40,7 +40,7 @@
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=shayan-rezaei&show_icons=true&hide_border=true&border_radius=12" 
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=shayan-rezaei" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=shayan-rezaei" />
   </picture>
 
   <!-- Languages -->
