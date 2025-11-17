@@ -40,7 +40,7 @@
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=shayan-rezaei&show_icons=true&hide_border=true&border_radius=12" 
       media="(prefers-color-scheme: light)" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shayan-rezaei" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shayan-rezaei" />
   </picture>
 
   <!-- Languages -->
@@ -51,7 +51,7 @@
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-rezaei&layout=compact&hide_border=true&border_radius=12" 
       media="(prefers-color-scheme: light)" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-rezaei&layout=compact" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-rezaei&layout=compact" />
   </picture>
 
 </p>
