@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0066CC&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shayan+Rezaei+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%92%BB+Front-End+Developer+%7C+%F0%9F%85%B0%EF%B8%8F+Angular" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shayan+Rezaei+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%92%BB+Front-End+Developer+%7C+%F0%9F%85%B0%EF%B8%8F+Angular" alt="Typing SVG" /></a>
 </h1>
 
 ### 🚀 About Me
