@@ -3,7 +3,7 @@
 </h1>
 
 ### 🚀 About Me
-- 🎓 Bachelor of Computer Engineering  
+- 🎓 B.Sc. in Computer Engineering  
 - 🅰️ Creating dynamic, high-level user interfaces using Angular framework  
 - 🎯 Always learning and staying up-to-date with new technologies  
 
