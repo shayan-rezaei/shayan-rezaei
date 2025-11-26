@@ -55,13 +55,13 @@
 
 ### 🔥 Streak & Activity
 <p align="center">
-<picture>
+  <picture>
   <source
     srcset="https://streak-stats.demolab.com?user=shayan-rezaei&theme=tokyonight&hide_border=true&border_radius=12"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=shayan-rezaei&hide_border=true&border_radius=12"
+    srcset="https://streak-stats.demolab.com?user=shayan-rezaei&theme=github-light&hide_border=true&border_radius=12"
     media="(prefers-color-scheme: light)"
   />
   <img src="https://streak-stats.demolab.com?user=shayan-rezaei" />
