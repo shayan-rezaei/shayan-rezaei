@@ -55,15 +55,17 @@
 
 ### 🔥 Streak & Activity
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=shayan-rezaei&theme=tokyonight&hide_border=true&border_radius=12"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=shayan-rezaei&hide_border=true&border_radius=12"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shayan-rezaei" />
-  </picture>
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=shayan-rezaei&theme=tokyonight&hide_border=true&border_radius=12"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=shayan-rezaei&hide_border=true&border_radius=12"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://streak-stats.demolab.com?user=shayan-rezaei" />
+</picture>
 </p>
 
 ---
