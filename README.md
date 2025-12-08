@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7FF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shayan+Rezaei+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%92%BB+Front-End+Developer+%7C+%F0%9F%85%B0%EF%B8%8F+Angular" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shayan+Rezaei+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%92%BB+Front-End+Developer" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -18,7 +18,7 @@
 
 ### 🚀 About Me:
 - 🎓 B.Sc. in Computer Engineering  
-- 🅰️ Creating dynamic, high-level user interfaces using Angular framework  
+- 🅰️ Creating dynamic, high-level user interfaces  
 - 🎯 Always learning and staying up-to-date with new technologies  
 
 ---
@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="50" />
@@ -44,23 +43,33 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=shayan-rezaei&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" 
-      media="(prefers-color-scheme: dark)" />
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=shayan-rezaei&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=shayan-rezaei&show_icons=true&hide_border=true&border_radius=12" 
-      media="(prefers-color-scheme: light)" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shayan-rezaei" />
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=shayan-rezaei&show_icons=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      height="165"
+      src="https://github-readme-stats-fast.vercel.app/api?username=shayan-rezaei&show_icons=true"
+    />
   </picture>
-
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-rezaei&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
-      media="(prefers-color-scheme: dark)" />
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shayan-rezaei&layout=compact&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-rezaei&layout=compact&hide_border=true&border_radius=12" 
-      media="(prefers-color-scheme: light)" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-rezaei&layout=compact" />
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shayan-rezaei&layout=compact"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      height="165"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shayan-rezaei&layout=compact"
+    />
   </picture>
+
 </p>
 
 ---
@@ -69,14 +78,16 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=shayan-rezaei&theme=tokyonight&hide_border=true&border_radius=12"
+      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=shayan-rezaei&theme=tokyonight&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com?user=shayan-rezaei&hide_border=true&border_radius=12"
+      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=shayan-rezaei"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://streak-stats.demolab.com?user=shayan-rezaei" />
+    <img 
+      src="https://github-readme-stats-fast.vercel.app/api/streak?username=shayan-rezaei"
+    />
   </picture>
 </p>
 
