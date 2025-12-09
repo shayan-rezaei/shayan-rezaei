@@ -16,7 +16,7 @@
 
 ### 🚀 About Me:
 - 🎓 B.Sc. in Computer Engineering  
-- 🅰️ Creating dynamic, high-level user interfaces using Angular framework  
+- 🅰️ Creating dynamic, high-level user interfaces with the Angular framework  
 - 🎯 Always learning and staying up-to-date with new technologies  
 
 ---
