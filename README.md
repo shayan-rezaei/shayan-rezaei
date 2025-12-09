@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shayan+Rezaei+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%92%BB+Front-End+Developer" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=500&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=600&height=140&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shayan+Rezaei;%F0%9F%85%B0%EF%B8%8F+Angular+Developer" alt="Typing SVG" /></a>
 </h1>
 
 ### 📫 Contact Me:
@@ -18,7 +16,7 @@
 
 ### 🚀 About Me:
 - 🎓 B.Sc. in Computer Engineering  
-- 🅰️ Creating dynamic, high-level user interfaces  
+- 🅰️ Creating dynamic, high-level user interfaces using Angular framework  
 - 🎯 Always learning and staying up-to-date with new technologies  
 
 ---
@@ -32,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="50" />
@@ -69,7 +68,6 @@
       src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shayan-rezaei&layout=compact"
     />
   </picture>
-
 </p>
 
 ---
