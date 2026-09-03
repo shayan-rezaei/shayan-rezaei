@@ -13,7 +13,7 @@
   <!-- Info Badges -->
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Based%20in-Isfahan%20Province%2C%20Iran-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Front--End-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Focus" />
 
 </div>
 
