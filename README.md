@@ -20,7 +20,7 @@
 ### 🧑‍💻 About Me
 
 - 🎯 Front-End Developer focused on building fast, responsive, and elegant web interfaces
-- ⚛️ Passionate about **React**, **TypeScript**, and modern UI/UX practices
+- ⚛️ Passionate about **React** and modern UI/UX practices
 - 🌱 Currently deepening my skills in advanced React patterns and performance optimization
 - 🤝 Open to collaborating on interesting front-end / web projects
 - 💬 Ask me about React and front-end architecture
