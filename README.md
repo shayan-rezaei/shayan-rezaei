@@ -21,6 +21,9 @@
   <a href="https://t.me/rezaei_shayan" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://instagram.com/shayan.rezaei__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="mailto:shayanrezaei.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -31,7 +34,7 @@
 ### 🧑‍💻 About Me
 
 - 🎯 Front-End Developer focused on building fast, responsive, and elegant web interfaces
-- ⚛️ Passionate about **React** and modern UI/UX practices
+- ⚛️ Passionate about React and modern UI/UX practices
 - 🌱 Currently deepening my skills in advanced React patterns and performance optimization
 - 🤝 Open to collaborating on interesting front-end / web projects
 - 💬 Ask me about React and front-end architecture
