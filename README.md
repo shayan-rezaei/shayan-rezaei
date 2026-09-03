@@ -5,7 +5,7 @@
 
   <!-- Typing SVG -->
   <a href="https://github.com/shayan-rezaei">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!;%F0%9F%8E%A8+Crafting+clean%2C+accessible+%26+pixel-perfect+UIs;%E2%9A%9B%EF%B8%8F+Building+high-performance+React+web+applications;%F0%9F%9A%80+Always+learning%2C+always+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!;%F0%9F%8E%A8+Crafting+clean%2C+accessible+%26+pixel-perfect+UIs;%E2%9A%9B%EF%B8%8F+Building+high-performance+React+web+applications;%F0%9F%9A%80+Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 
   <!-- Info Badges -->
@@ -58,12 +58,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=shayan-rezaei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=shayan-rezaei&show_icons=true&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=shayan-rezaei&show_icons=true&hide_border=false&count_private=true" />
     <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=shayan-rezaei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shayan-rezaei&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shayan-rezaei&layout=compact&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shayan-rezaei&layout=compact&hide_border=false" />
     <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shayan-rezaei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </picture>
 </p>
@@ -71,7 +71,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=shayan-rezaei&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=shayan-rezaei&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=shayan-rezaei&hide_border=false" />
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shayan-rezaei&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </picture>
 </p>
@@ -103,7 +103,6 @@
 <br/>
 
 <p align="center"><i>Thanks for stopping by — always open to a good conversation about code ✨</i></p>
-
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0A66C2&height=100&section=footer" width="100%" alt="Footer Banner" />
