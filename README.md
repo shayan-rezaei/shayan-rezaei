@@ -94,7 +94,5 @@
   </picture>
 </p>
 
-<br/>
-
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0A66C2&height=100&section=footer" width="100%" alt="Footer Banner" />
