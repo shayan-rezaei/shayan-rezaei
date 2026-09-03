@@ -5,8 +5,15 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shayan;Front-End+Developer+%7C+React;I+love+building+clean+UIs;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shayan+Rezaei;%E2%9A%9B%EF%B8%8F+Front-End+Developer+%7C+React;%F0%9F%8E%A8+I+turn+designs+into+pixel-perfect+UI;%F0%9F%9A%80+Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  <!-- Info Badges -->
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Based%20in-Isfahan%20Province%2C%20Iran-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Front--End-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Focus" />
 
 </div>
 
@@ -89,7 +96,7 @@
   </picture>
 </p>
 
-<br/>
+<p align="center"><i>Thanks for stopping by — always open to a good conversation about code ✨</i></p>
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0A66C2&height=100&section=footer" width="100%" alt="Footer Banner" />
