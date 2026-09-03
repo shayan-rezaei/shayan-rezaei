@@ -4,27 +4,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=180&section=header&text=Shayan%20Rezaei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
   <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/shayan-rezaei">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shayan+Rezaei;%E2%9A%9B%EF%B8%8F+Front-End+Developer+%7C+React;%F0%9F%8E%A8+I+turn+designs+into+pixel-perfect+UI;%F0%9F%9A%80+Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 
-  <br/>
-
   <!-- Info Badges -->
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Based%20in-Isfahan%20Province%2C%20Iran-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Focus" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Based%20in-Isfahan%20Province%2C%20Iran-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Focus-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Focus" />
+  </p>
 
 </div>
-
-### 🧑‍💻 About Me
-
-- 🎯 Front-End Developer focused on building fast, responsive, and elegant web interfaces
-- ⚛️ Passionate about **React** and modern UI/UX practices
-- 🌱 Currently deepening my skills in advanced React patterns and performance optimization
-- 🤝 Open to collaborating on interesting front-end / web projects
-- 💬 Ask me about React and front-end architecture
-- ⚡ Fun fact: I enjoy turning messy designs into pixel-perfect, smooth experiences
 
 ---
 
@@ -34,10 +25,24 @@
   <a href="https://www.linkedin.com/in/shayan-rezaei-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://t.me/rezaei_shayan" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   <a href="mailto:shayanrezaei.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎯 Front-End Developer focused on building fast, responsive, and elegant web interfaces
+- ⚛️ Passionate about **React** and modern UI/UX practices
+- 🌱 Currently deepening my skills in advanced React patterns and performance optimization
+- 🤝 Open to collaborating on interesting front-end / web projects
+- 💬 Ask me about React and front-end architecture
+- ⚡ Fun fact: I enjoy turning messy designs into pixel-perfect, smooth experiences
 
 ---
 
@@ -95,6 +100,8 @@
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
   </picture>
 </p>
+
+<br/>
 
 <p align="center"><i>Thanks for stopping by — always open to a good conversation about code ✨</i></p>
 
