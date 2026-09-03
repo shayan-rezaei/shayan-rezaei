@@ -23,7 +23,7 @@
 - ⚛️ Passionate about **React**, **TypeScript**, and modern UI/UX practices
 - 🌱 Currently deepening my skills in advanced React patterns and performance optimization
 - 🤝 Open to collaborating on interesting front-end / web projects
-- 💬 Ask me about React, JavaScript, and front-end architecture
+- 💬 Ask me about React and front-end architecture
 - ⚡ Fun fact: I enjoy turning messy designs into pixel-perfect, smooth experiences
 
 ---
