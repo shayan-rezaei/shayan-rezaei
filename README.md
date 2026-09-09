@@ -43,7 +43,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,figma,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
