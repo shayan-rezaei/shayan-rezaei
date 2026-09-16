@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=180&section=header&text=Shayan%20Rezaei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20and%20Node.js&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/shayan-rezaei">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+React+%26+Node.js;%E2%9A%A1+Crafting+modern+web+apps+from+database+to+UI;%F0%9F%9A%80+Turning+complex+ideas+into+scalable+digital+products" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!;%E2%9A%A1+Crafting+modern+web+apps+from+database+to+UI;%F0%9F%9A%80+Building+fast%2C+scalable+%26+clean+web+applications" alt="Typing SVG" />
+</a>
 
 </div>
 
