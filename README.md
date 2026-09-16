@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=180&section=header&text=Shayan%20Rezaei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=180&section=header&text=Shayan%20Rezaei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20and%20Node.js&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/shayan-rezaei">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!;%F0%9F%8E%A8+Crafting+clean%2C+accessible+%26+pixel-perfect+UIs;%E2%9A%9B%EF%B8%8F+Building+high-performance+React+web+applications;%F0%9F%9A%80+Always+learning%2C+always+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+React+%26+Node.js;%E2%9A%A1+Crafting+modern+web+apps+from+database+to+UI;%F0%9F%9A%80+Turning+complex+ideas+into+scalable+digital+products" alt="Typing SVG" />
   </a>
 
 </div>
@@ -31,19 +31,18 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 Front-End Developer focused on building fast, responsive, and elegant web interfaces
-- ⚛️ Passionate about React and modern UI/UX practices
-- 🌱 Currently deepening my skills in advanced React patterns and performance optimization
-- 🤝 Open to collaborating on interesting front-end / web projects
-- 💬 Ask me about React and front-end architecture
-- ⚡ Fun fact: I enjoy turning messy designs into pixel-perfect, smooth experiences
+- 🎯 **Full Stack Developer** focused on building scalable end-to-end web applications, robust RESTful APIs, and modern SSR/SSG interfaces.
+- 💻 **Tech Stack:** Specialized in **React** & **Next.js** on the front-end and **Node.js & Express.js** on the back-end.
+- 🗄️ Experienced with relational databases (**MySQL**) and application containerization (**Docker**).
+- 🌱 Currently deepening my knowledge in advanced Next.js App Router, microservices, and DevOps practices.
+- 🤝 Open to collaborating on full-stack web development projects and open-source software.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mysql,docker,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
