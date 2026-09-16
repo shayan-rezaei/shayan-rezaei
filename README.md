@@ -31,7 +31,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 **Full Stack Developer** focused on building scalable end-to-end web applications, robust RESTful APIs, and modern SSR/SSG interfaces.
+- 🎯 **Full Stack Developer** focused on building scalable end-to-end web applications.
 - 💻 **Tech Stack:** Specialized in **React** & **Next.js** on the front-end and **Node.js & Express.js** on the back-end.
 - 🗄️ Experienced with relational databases (**MySQL**) and application containerization (**Docker**).
 - 🌱 Currently deepening my knowledge in advanced Next.js App Router, microservices, and DevOps practices.
