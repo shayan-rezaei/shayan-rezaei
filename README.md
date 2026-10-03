@@ -35,7 +35,7 @@
 - 💻 **Tech Stack:** Specialized in **React** & **Next.js** on the front-end and **Node.js & Express.js** on the back-end.
 - 🗄️ Experienced with relational databases (**MySQL**) and application containerization (**Docker**).
 - 🌱 Currently deepening my knowledge in advanced Next.js App Router, microservices, and DevOps practices.
-- 🤝 Open to collaborating on full-stack web development projects and open-source software.
+- 🤝 Open to collaborating on full stack web development projects and open-source software.
 
 ---
 
