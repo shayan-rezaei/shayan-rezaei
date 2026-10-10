@@ -33,7 +33,7 @@
 
 - 🎯 **Full Stack Developer** focused on building scalable end-to-end web applications.
 - 💻 **Tech Stack:** Specialized in **React** & **Next.js** on the front-end and **Node.js & Express.js** on the back-end.
-- 🗄️ Experienced with relational databases (**MySQL**) and application containerization (**Docker**).
+- 🗄️ Experienced with relational databases (**MySQL**), designing robust **RESTful APIs**, and application containerization (**Docker**).
 - 🌱 Currently deepening my knowledge in advanced Next.js App Router, microservices, and DevOps practices.
 - 🤝 Open to collaborating on full stack web development projects and open-source software.
 
@@ -41,8 +41,9 @@
 
 ### 🛠️ Tech Stack
 
+<!-- HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MySQL, RESTful APIs (Postman), Docker, Git, GitHub -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mysql,docker,git,github&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mysql,postman,docker,git,github&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
