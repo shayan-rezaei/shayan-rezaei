@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=180&section=header&text=Shayan%20Rezaei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20and%20Node.js&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=180&section=header&text=Shayan%20Rezaei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20and%20Next.js&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/shayan-rezaei">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!;%E2%9A%A1+Crafting+modern+web+apps+from+database+to+UI;%F0%9F%9A%80+Building+fast%2C+scalable+%26+clean+web+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!;%E2%9A%A1+Crafting+modern%2C+responsive+%26+interactive+UIs;%F0%9F%9A%80+Building+fast%2C+scalable+Frontend+applications" alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,7 +19,7 @@
   <a href="https://instagram.com/shayan.rezaei__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:shayanrezaei.dev@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shayanrezaei.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/shayan-rezaei-dev" target="_blank">
@@ -31,19 +31,18 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 **Full Stack Developer** focused on building scalable end-to-end web applications.
-- 💻 **Tech Stack:** Specialized in **React** & **Next.js** on the front-end and **Node.js & Express.js** on the back-end.
-- 🗄️ Experienced with relational databases (**MySQL**), designing robust **RESTful APIs**, and application containerization (**Docker**).
-- 🌱 Currently deepening my knowledge in advanced Next.js App Router, microservices, and DevOps practices.
-- 🤝 Open to collaborating on full stack web development projects and open-source software.
+- 🎯 **Frontend Developer** focused on building high-performance, modern, and user-centric web applications.
+- 💻 **Tech Stack:** Specialized in **React** & **Next.js** ecosystem, utilizing **TypeScript** for robust codebase development.
+- 🎨 Skilled in state management (**React Query**, **Zustand**), UI styling (**Tailwind CSS**, **SASS**), and **PWA** implementation.
+- 🌱 Currently deepening my knowledge in advanced Next.js App Router performance optimizations and modern UI design patterns.
+- 🤝 Open to collaborating on frontend projects and open-source software.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<!-- HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MySQL, RESTful APIs (Postman), Docker, Git, GitHub -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mysql,postman,docker,git,github&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,git,github&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
