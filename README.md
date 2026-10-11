@@ -33,8 +33,8 @@
 
 - 🎯 **Frontend Developer** focused on building high-performance, modern, and user-centric web applications.
 - 💻 **Tech Stack:** Specialized in **React** & **Next.js** ecosystem, utilizing **TypeScript** for robust codebase development.
-- 🎨 Skilled in state management (**React Query**, **Zustand**), UI styling (**Tailwind CSS**, **SASS**), and **PWA** implementation.
-- 🌱 Currently deepening my knowledge in advanced Next.js App Router performance optimizations and modern UI design patterns.
+- 🎨 Skilled in data fetching & server state management **React Query**, client state management **Zustand**, UI styling **Tailwind CSS**, and **PWA** implementation.
+- 🌱 Currently deepening my knowledge in advanced **Next.js App Router** performance optimizations and modern UI design patterns.
 - 🤝 Open to collaborating on frontend projects and open-source software.
 
 ---
