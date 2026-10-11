@@ -1,10 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=180&section=header&text=Shayan%20Rezaei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20and%20Next.js&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=180&section=header&text=Shayan%20Rezaei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
-  <a href="https://github.com/shayan-rezaei">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!;%E2%9A%A1+Crafting+modern%2C+responsive+%26+interactive+UIs;%F0%9F%9A%80+Building+fast%2C+scalable+Frontend+applications" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=850&height=45&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!;%E2%9A%9B%EF%B8%8F+Crafting+modern+web+apps+with+React+%26+Next.js;%F0%9F%8E%AF+Clean+Code+%7C+High+Performance+%7C+Modern+UI" alt="Typing SVG" />
 
 </div>
 
